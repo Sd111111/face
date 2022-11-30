@@ -1,0 +1,30 @@
+body{
+    background-image:linear-gradient(rgb(163, 204, 110),rgb(106, 206, 184),rgb(0, 119, 255));
+    font-family: 'Gemunu Libre', sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    letter-spacing: 2px;
+}
+#camera{
+    width:350px;
+    height:300px;
+    border: 3px white solid;
+    
+}
+.heading{
+    font-size: 40px;
+    font-family: 'Pirata One', cursive;
+    width: 100%;
+    border-radius: 20px;
+    letter-spacing: 3px;
+    font-weight: 200;
+}
+.btn{
+    
+    font-weight: bold;
+    letter-spacing: 4px;
+}
+span{
+    color: aliceblue;
+    font-weight: bold;
+}
